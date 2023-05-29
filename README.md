@@ -1,6 +1,8 @@
-# flutter_dasar_container_decoration
+# Dibuat Oleh Zidhan Hadi
 
 PROJECT FLUTTER TUGAS PAPB (ZIDHAN HADI IRAWAN - 20104410021)
+
+Note: File Main dan Screen.dart nya ada di folder lib
 
 ## Getting Started
 
